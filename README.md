@@ -19,5 +19,7 @@
 
 ![0000](https://github.com/Oybek0407/Cardiac_Catheterization/assets/121758616/4af656a6-5ee7-4d71-bee4-25ebbf32319e)
 
+5 해당 GT 마스크가 포함된 샘플 이미지와 학습된 모델에서 예측된 마스크:
 
+![mask](https://github.com/Oybek0407/Cardiac_Catheterization/assets/121758616/72cd38cf-d504-47f5-802d-74fb7deb9b5c)
 
